@@ -39,3 +39,15 @@ Prioritize model interpretability and analyze feature importance to understand w
 ## Deliverables :
 - A colab notebook contains work data of this project found [here](https://github.com/PriyankaSPawar/Data_Science_Supervised_Machine_Learning_Mushrooms_Classification/blob/main/Mushrooms_ML_Classification_Competition.ipynb)
 - A Medium article of this project found [here]()
+
+## Reason behind choosing ExtraTrees Classifier:
+- Choosing the ExtraTrees Classifier with LazyPredict is ideal for this project due to its robust predictive accuracy and efficiency. The ExtraTrees Classifier excels in handling complex datasets by building multiple decision trees with randomized features, reducing the risk of overfitting and improving generalization. 
+- LazyPredict complements this by offering a quick and comprehensive evaluation of various models, allowing you to swiftly identify the most promising classifier for predicting mushroom toxicity accurately and prioritizing safety.
+- This approach not only saves time during model selection but also ensures that the chosen model can reliably distinguish between poisonous and non-poisonous mushrooms, aligning with your project's goals effectively.
+
+
+
+
+
+
+
